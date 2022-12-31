@@ -1,0 +1,4 @@
+# add this two lines 
+*.* linguist-language=HTML
+
+project-docs/*
